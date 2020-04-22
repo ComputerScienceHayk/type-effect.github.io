@@ -1,3 +1,6 @@
+![Image alt](https://github.com/ComputerScienceHayk/type-effect/blob/master/src/ezgif.com-gif-maker.gif)
+
+
 #1 You need to have node js and npm on your machine.
   https://nodejs.org/en/
   
